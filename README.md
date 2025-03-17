@@ -51,7 +51,9 @@ Este repositorio documenta el desarrollo de AquaSense, un sistema innovador dise
 
 ## Contenido del Repositorio
 [Código](src/): Código fuente para la programación del Arduino.
+
 [Esquemas](esquemas/): Diagramas y esquemas eléctricos del sistema.
+
 [Imagenes del Proyecto](p-photos/): Fotografías del montaje, pruebas y funcionamiento del prototipo.
 
 
