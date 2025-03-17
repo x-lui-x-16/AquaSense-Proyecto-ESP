@@ -2,6 +2,8 @@
 
 Este repositorio documenta el desarrollo de AquaSense, un sistema innovador diseñado para regular de forma autónoma el riego por goteo en cultivos. La solución se basa en el uso de sensores de humedad que, al medir continuamente el estado del suelo en un área de 100 cm x 100 cm, permiten ajustar el suministro de agua de manera precisa, promoviendo la eficiencia y sostenibilidad en la agricultura.
 
+[Versión en Inglés](https://github.com/x-lui-x-16/AquaSense-Project-ENG)
+
 
 ## Índice
 - Materiales de Ingeniería
